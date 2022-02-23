@@ -18,8 +18,8 @@ I'm Kevin and i'm a student studying Internet of Things, currently living in **B
 
 # Connect with me 🤝
 <div id="badges">
-  <a href="www.linkedin.com/in/kevin-vervloet-3230ba176">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" href="www.linkedin.com/in/kevin-vervloet-3230ba176"/>
   </a>
 </div>
 
