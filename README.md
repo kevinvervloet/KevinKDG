@@ -1,7 +1,7 @@
 ### Hey, i'm Kevin 👋
 
 Welcome to my profile.
-I'm currently studying Internet of Things, currently living in **Belgium**.
+I'm currently studying Internet of Things, living in **Belgium**.
 
 # Languages & Software 🧰
 <div>
