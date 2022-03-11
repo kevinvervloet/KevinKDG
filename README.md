@@ -15,11 +15,3 @@ I'm currently studying Internet of Things, living in **Belgium**.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Git" width="40" height="40"/>
 </div>
-
-# Connect with me 🤝
-<div id="badges">
-  <a href="www.linkedin.com/in/kevin-vervloet-3230ba176">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
