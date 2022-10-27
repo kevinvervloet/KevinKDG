@@ -1,7 +1,7 @@
 ### Hey, i'm Kevin 👋
 
 Welcome to my profile.
-I'm currently studying Internet of Things, living in **Belgium**.
+I'm an IoT specialist currently working as an Consultant for Otofacto. This github is a compilation of my previous work from school & aditional projects i have done in my spare time
 
 # Languages & Software 🧰
 <div>
